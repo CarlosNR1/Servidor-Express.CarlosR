@@ -1,0 +1,97 @@
+{
+    "frias": [
+      {
+        "id": 1,
+        "title": "Ensalada César",
+        "description": "Ensalada fresca con aderezo César.",
+        "price": 8.99,
+        "thumbnail": "ensalada.jpg",
+        "code": "ENS001",
+        "stock": 15
+      },
+      {
+        "id": 2,
+        "title": "Sándwich de Pollo",
+        "description": "Sándwich de pollo a la parrilla con lechuga y tomate.",
+        "price": 6.99,
+        "thumbnail": "sandwich.jpg",
+        "code": "SAND002",
+        "stock": 20
+      },
+      {
+        "id": 3,
+        "title": "Tarta de Espinacas",
+        "description": "Deliciosa tarta de espinacas con queso.",
+        "price": 7.49,
+        "thumbnail": "tarta.jpg",
+        "code": "TART003",
+        "stock": 10
+      },
+      {
+        "id": 4,
+        "title": "Ensalada de Frutas",
+        "description": "Ensalada fresca con una variedad de frutas.",
+        "price": 5.99,
+        "thumbnail": "frutas.jpg",
+        "code": "ENS004",
+        "stock": 18
+      },
+      {
+        "id": 5,
+        "title": "Wrap Vegetariano",
+        "description": "Wrap con verduras frescas y hummus.",
+        "price": 6.49,
+        "thumbnail": "wrap.jpg",
+        "code": "WRAP005",
+        "stock": 12
+      }
+    ],
+    "calientes": [
+      {
+        "id": 6,
+        "title": "Pizza Margarita",
+        "description": "Pizza con salsa de tomate, mozzarella y albahaca.",
+        "price": 9.99,
+        "thumbnail": "pizza.jpg",
+        "code": "PIZZA006",
+        "stock": 14
+      },
+      {
+        "id": 7,
+        "title": "Hamburguesa Clásica",
+        "description": "Hamburguesa con carne de res, lechuga, tomate y queso.",
+        "price": 7.99,
+        "thumbnail": "hamburguesa.jpg",
+        "code": "BURGER007",
+        "stock": 16
+      },
+      {
+        "id": 8,
+        "title": "Papas Fritas",
+        "description": "Papas fritas crujientes y doradas.",
+        "price": 3.99,
+        "thumbnail": "papas.jpg",
+        "code": "FRIES008",
+        "stock": 22
+      },
+      {
+        "id": 9,
+        "title": "Tacos de Pollo",
+        "description": "Tacos rellenos de pollo con salsa y guarniciones.",
+        "price": 8.49,
+        "thumbnail": "tacos.jpg",
+        "code": "TACOS009",
+        "stock": 15
+      },
+      {
+        "id": 10,
+        "title": "Pasta Alfredo",
+        "description": "Pasta con salsa Alfredo y pollo.",
+        "price": 9.49,
+        "thumbnail": "pasta.jpg",
+        "code": "PASTA010",
+        "stock": 12
+      }
+    ]
+  }
+  
